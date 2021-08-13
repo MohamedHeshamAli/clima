@@ -1,6 +1,8 @@
 # meals
 
-A new Flutter application by:
+A new Flutter application.
+
+used package:
 - weather api
 - geolocator package
 - translator package
